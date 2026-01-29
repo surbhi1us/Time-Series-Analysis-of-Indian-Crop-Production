@@ -142,9 +142,6 @@ Due to limited data:
   - Visual inspection
   - Domain judgment
 
-**Rule of thumb:**
-- Agreement → higher confidence
-- Disagreement → prefer ARIMA
 
 ---
 
