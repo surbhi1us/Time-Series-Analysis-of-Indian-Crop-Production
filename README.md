@@ -188,19 +188,7 @@ Due to limited data:
 
 ---
 
-## 12. Final Forecasting Approach
-
-- Forecasts generated using:
-  - Holt’s Linear
-  - Auto ARIMA
-- Judgmental ensemble approach:
-  - Compare both models
-  - Prefer ARIMA for noisy series
-  - Trust agreement when both align
-
----
-
-## 13. Key Takeaways
+## 12. Key Takeaways
 
 - Limited data favors simpler models
 - Holt works best for clean trends
